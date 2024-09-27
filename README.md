@@ -1,5 +1,3 @@
-Here's a more concise README for your GitHub repository:
-
 ```markdown
 # Web Application Deployment on Cloud VM
 
@@ -23,4 +21,4 @@ The web application is successfully deployed and operational on the cloud VM, ac
 
 ```
 
-Feel free to adjust any details to better suit your style!
+
